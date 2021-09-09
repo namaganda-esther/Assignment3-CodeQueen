@@ -1,0 +1,12 @@
+.body{
+    padding-top: 5%;
+    padding-left: 10%;
+    background-color: ghostwhite;
+}
+
+footer{
+    background-color: darkslategray;
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
